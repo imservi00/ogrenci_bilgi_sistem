@@ -1,0 +1,63 @@
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.exe
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.deps.json
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.runtimeconfig.json
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.pdb
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.AssemblyReference.cache
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.Form1.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.GenerateResource.cache
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.AssemblyInfoInputs.cache
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.AssemblyInfo.cs
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.CoreCompileInputs.cache
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciD.37070A92.Up2Date
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\refint\OgrenciDersSecim.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.pdb
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.genruntimeconfig.cache
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\ref\OgrenciDersSecim.dll
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.DersDuzenleForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.MemurAnaForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciKayitForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciRaporForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciSilForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciAnaForm.resources
+C:\Users\pc.DESKTOP-GE9UJQI\source\repos\OgrenciDersSecim\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.DanismanAnaForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.exe
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.deps.json
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.runtimeconfig.json
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\OgrenciDersSecim.pdb
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.DanismanAnaForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.DersDuzenleForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.Form1.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.MemurAnaForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciAnaForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciKayitForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciRaporForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.OgrenciSilForm.resources
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.AssemblyInfoInputs.cache
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.AssemblyInfo.cs
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciD.37070A92.Up2Date
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\refint\OgrenciDersSecim.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.pdb
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.genruntimeconfig.cache
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\ref\OgrenciDersSecim.dll
+C:\Users\mert\Desktop\BİLGİ SİSTEMİ\OgrenciDersSecim\obj\Debug\net8.0-windows\OgrenciDersSecim.Properties.Resources.resources
